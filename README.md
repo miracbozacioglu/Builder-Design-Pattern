@@ -88,12 +88,6 @@ var araba = new ArabaBuilder()
 
 ---
 
-## ▶️ Çalıştırma
-
-```bash
-dotnet run
-```
-
 ---
 
 ## ✨ Neden Builder?
